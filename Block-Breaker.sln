@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block-Breaker", "Block-Breaker.csproj", "{1EDD7375-2BAB-7D47-8D51-5AEF85D37543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block-Breaker.Editor", "Block-Breaker.Editor.csproj", "{1185EF4C-4326-9E7D-11BC-2A132A6489EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EDD7375-2BAB-7D47-8D51-5AEF85D37543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDD7375-2BAB-7D47-8D51-5AEF85D37543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDD7375-2BAB-7D47-8D51-5AEF85D37543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDD7375-2BAB-7D47-8D51-5AEF85D37543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1185EF4C-4326-9E7D-11BC-2A132A6489EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1185EF4C-4326-9E7D-11BC-2A132A6489EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1185EF4C-4326-9E7D-11BC-2A132A6489EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1185EF4C-4326-9E7D-11BC-2A132A6489EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
